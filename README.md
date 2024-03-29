@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+1st Placer Arduino Innovator Event UEP
+*  CODE_ALCOHOLIC
+*  LOVES CODE THAN MYSELF
+*  COLLEGE STUDENT
+*  LOVES CODING 
