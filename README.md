@@ -20,3 +20,5 @@ Core Developer : 1st Placer Arduino Innovator Event UEP
 *  Learning Fundamentals / Logic / How it Works
 *  College Student
 *  Has Capstone Project ongoing (check esp32 repo)
+
+* My Dream is to be one of the great programmers around the world
