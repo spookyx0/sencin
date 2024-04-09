@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-1st Placer Arduino Innovator Event UEP
-*  CODE_ALCOHOLIC
-*  LOVES CODE THAN MYSELF
-*  COLLEGE STUDENT
-*  LOVES CODING 
+Core Developer : 1st Placer Arduino Innovator Event UEP
+*  Prioritize Coding than Studying
+*  Learning Fundamentals / Logic / How it Works
+*  College Student
+*  Has Capstone Project ongoing (check esp32 repo)
