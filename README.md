@@ -22,3 +22,8 @@ Core Developer : 1st Placer Arduino Innovator Event UEP
 *  Has Capstone Project ongoing (check esp32 repo)
 
 * My Dream is to be one of the great programmers around the world
+
+* [ONLINE Vertical Farming](https://github.com/sencin/VFSystem)
+* [OFFLINE Vertical Farming](https://github.com/sencin/vertical_farming_esp32)
+
+  This two repositories is currently i am Working. 
