@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
 
 
+</br>
+</br>
 
-## 
 Core Developer : 1st Placer Arduino Innovator Event UEP
 *  Prioritize Coding than Studying
 *  Learning Fundamentals / Logic / How it Works
