@@ -22,8 +22,8 @@ Core Developer : 1st Placer Arduino Innovator Event UEP
 
 * My Dream is to be one of the great programmers around the world
 
-* [ONLINE Vertical Farming](https://github.com/sencin/VFSystem)
-* [OFFLINE Vertical Farming](https://github.com/sencin/vertical_farming_esp32)
+* [ONLINE Vertical Farming](https://github.com/sencin/VFSystem)  Project in App Development and Emerging Techonologies // Frontend of VF
+* [OFFLINE Vertical Farming](https://github.com/sencin/vertical_farming_esp32) // Backend of VF, uses ESP32 Microcontroller
 
   This two repositories is currently i am Working.
 
