@@ -38,8 +38,7 @@ Core Developer : 1st Placer Arduino Innovator Event UEP
 
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
+name: Sen
 current_job: Full Stack Developer
 education:
   [
@@ -79,6 +78,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
+
 
 
 
