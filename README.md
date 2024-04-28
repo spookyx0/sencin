@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <summary> Github Stats </summary>
-<img align="left" src="https://github-readme-stats-teal-two-34.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
+* <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
 
 
 
