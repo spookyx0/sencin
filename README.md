@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+<summary> Github Stats </summary>
+
+<img align="left" src="https://github-readme-stats-teal-two-34.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
+
+</details>
+
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
