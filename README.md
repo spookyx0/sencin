@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## STATS
-![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
-
-
 Core Developer : 1st Placer Arduino Innovator Event UEP
 *  Prioritize Coding than Studying
 *  Learning Fundamentals / Logic / How it Works
@@ -31,6 +27,8 @@ Core Developer : 1st Placer Arduino Innovator Event UEP
 
   This two repositories is currently i am Working.
 
+## Commits
+![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
