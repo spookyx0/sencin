@@ -20,8 +20,8 @@ Core Developer : 1st Placer Arduino Innovator Event UEP
 *  College Student
 *  Has Capstone Project ongoing (check esp32 repo)
 
-* [ONLINE VF](https://github.com/sencin/VFSystem)  Project in App Development and Emerging Techonologies // Frontend of VF
-* [OFFLINE VF](https://github.com/sencin/vertical_farming_esp32) // Backend of VF, uses ESP32 Microcontroller
+* [ONLINE VF](https://github.com/sencin/VFSystem) Project in App Development and Emerging Techonologies
+* [OFFLINE VF](https://github.com/sencin/vertical_farming_esp32) Backend of VF, uses ESP32 Microcontroller
 
   This two repositories is currently i am Working.
 
