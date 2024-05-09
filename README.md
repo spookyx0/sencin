@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 Core Developer : 1st Placer Arduino Innovator Event UEP
 *  Prioritize Coding than Studying
-*  Learning Fundamentals / Logic / How it Works
+*  Learning Fundamentals
 *  College Student
 *  Has Capstone Project ongoing (check esp32 repo)
 
-* [ONLINE Vertical Farming](https://github.com/sencin/VFSystem)  Project in App Development and Emerging Techonologies // Frontend of VF
-* [OFFLINE Vertical Farming](https://github.com/sencin/vertical_farming_esp32) // Backend of VF, uses ESP32 Microcontroller
+* [ONLINE VF](https://github.com/sencin/VFSystem)  Project in App Development and Emerging Techonologies // Frontend of VF
+* [OFFLINE VF](https://github.com/sencin/vertical_farming_esp32) // Backend of VF, uses ESP32 Microcontroller
 
   This two repositories is currently i am Working.
 
