@@ -26,7 +26,7 @@ technical_background:
     "Core Developer : 1st Placer Arduino Innovator Event"
   ]
   
-currently_learning: ["C++, Java, and PHP"]
+currently_learning: ["C++", "Java", "PHP"]
 
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
