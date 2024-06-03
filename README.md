@@ -3,27 +3,45 @@
 <!--
 **sencin/sencin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```yaml
+name: Sensen
+located_in: Visayas, Philippines
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Information and Technology",
+    "Learning Fundamentals"
+  ]
+company: N/A
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Core Developer : 1st Placer Arduino Innovator Event UEP
-*  Prioritize Coding than Studying
-*  Learning Fundamentals
-*  College Student
-*  Has Capstone Project ongoing (check esp32 repo)
+fields_of_interests:
+  [
+    "Web Development",
+    "Backend Development",
+    "Machine Learning",
+    "UI/UX",
+    "Microcontrollers",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer" 
+    "Intern - Internet Of Things",
+    "Core Developer : 1st Placer Arduino Innovator Event"
+  ]
+  
+currently_learning: ["C++, Java, and PHP"]
 
-* [ONLINE VF](https://github.com/sencin/VFSystem) Project in App Development and Emerging Techonologies
-* [OFFLINE VF](https://github.com/sencin/vertical_farming_esp32) Backend of VF, uses ESP32 Microcontroller
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
 
-  This two repositories is currently i am Working.
+my_projects:
+[
+ [ONLINE VF](https://github.com/sencin/VFSystem) Project in App Development and Emerging Techonologies
+ [OFFLINE VF](https://github.com/sencin/vertical_farming_esp32) Backend of VF, uses ESP32 Microcontroller
+]
+```
 
 ## Commits
 ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
@@ -37,11 +55,5 @@ Core Developer : 1st Placer Arduino Innovator Event UEP
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="45" height="45"/>
 </p>
 
-
-
 ## GITHUB STATS
 <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
-
-
-
-
