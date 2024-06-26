@@ -33,8 +33,8 @@ hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
 
 my_projects:
 [
- https://github.com/sencin/VFSystem               Project in App Development and Emerging Techonologies
- https://github.com/sencin/vertical_farming_esp32 Backend of VF, uses ESP32 Microcontroller
+Private: https://github.com/sencin/VFSystem               Project in App Development and Emerging Techonologies
+Private: https://github.com/sencin/vertical_farming_esp32 Backend of VF, uses ESP32 Microcontroller 
 ]
 ```
 ## Commits
