@@ -1,7 +1,6 @@
 ```yaml
 name: Sensen
-located_in: Visayas, Philippines
-current_job: Full Stack Developer
+located_in: Philippines
 education:
   [
     "Self-Taught Developer and Designer",
@@ -23,7 +22,7 @@ technical_background:
   [
     "Full Stack Developer" 
     "Intern - Internet Of Things",
-    "Core Developer : 1st Placer Arduino Innovator Event"
+    "Core Developer : 1st Placer Arduino Innovator"
   ]
   
 currently_learning: ["C++", "Java", "PHP"]
