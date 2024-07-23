@@ -14,14 +14,11 @@ fields_of_interests:
     "Web Development",
     "Backend Development",
     "Machine Learning",
-    "UI/UX",
     "Microcontrollers",
     "DevOps",
   ]
 technical_background:
   [
-    "Full Stack Developer" 
-    "Intern - Internet Of Things",
     "Core Developer : 1st Placer Arduino Innovator"
   ]
   
@@ -30,17 +27,13 @@ currently_learning: ["C++", "Java", "PHP"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
 
-my_projects:
-[
-Private: https://github.com/sencin/VFSystem               Project in App Development and Emerging Techonologies
-Private: https://github.com/sencin/vertical_farming_esp32 Backend of VF, uses ESP32 Microcontroller 
-]
 ```
 ## Commits
 ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀Some Tools I Have Used and Learned</h2>
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
