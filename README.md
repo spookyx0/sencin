@@ -4,7 +4,7 @@ located_in: Philippines
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's in Information and Technology",
+    "Bachelor of Science in Information Technology",
     "Learning Fundamentals"
   ]
 company: N/A
