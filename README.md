@@ -28,10 +28,6 @@ currently_learning: ["C++", "Java", "PHP"]
 hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
 
 ```
-## GITHUB STATS
-<img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
-
-##
 ## Commits
 ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
 
@@ -47,3 +43,5 @@ hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="msql" width="45" height="45"/>
  <img src="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b1860f79585f66ec30ea75ab253e4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="linux" width="45" height="45"/>
 </p>
+## GITHUB STATS
+<img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
