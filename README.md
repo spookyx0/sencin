@@ -43,8 +43,6 @@ hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="45" height="45"/>
 </p>
 
- Commits
-
 <details>
   <summary>Commits</summary>
     ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
