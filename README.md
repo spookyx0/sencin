@@ -1,3 +1,6 @@
+<h2>GITHUB STATS</h2> 
+<img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
+
 ```yaml
 name: Sensen
 located_in: Philippines
@@ -37,12 +40,9 @@ hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://camo.githubusercontent.com/67af3f7e88aa4d5c4d525689311143b62f0750eaff5832a9505df20312e8eed6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="c++" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="45" height="45"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="45" height="45"/>
-  <img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="git" width="45" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" width="45" height="45"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="msql" width="45" height="45"/>
- <img src="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b1860f79585f66ec30ea75ab253e4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="linux" width="45" height="45"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="45" height="45"/>
 </p>
-
-<h2>GITHUB STATS</h2> 
-<img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
