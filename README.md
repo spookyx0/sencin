@@ -1,5 +1,6 @@
-<h2>GITHUB STATS</h2> 
+## GITHUB STATS
 <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
+##
 
 ```yaml
 name: Sensen
