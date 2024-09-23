@@ -1,10 +1,9 @@
 ## GITHUB STATS
 <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
-
 ## Commits
 ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
 
-<h2> 🚀Some Tools I Have Used and Learned</h2>
+##  🚀Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
