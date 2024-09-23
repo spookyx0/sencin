@@ -1,7 +1,3 @@
-<details>
-  <summary>GITHUB STATS</summary>
- <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
-</details>
 
 ```yaml
 name: Sensen
@@ -33,6 +29,12 @@ currently_learning: ["C++", "Java", "PHP"]
 hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
 
 ```
+
+<details>
+  <summary>GITHUB STATS</summary>
+ <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
+</details>
+
 ##  🚀Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
