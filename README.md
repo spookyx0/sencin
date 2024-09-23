@@ -1,37 +1,6 @@
 ## GITHUB STATS
 <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
-##
 
-```yaml
-name: Sensen
-located_in: Philippines
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor of Science in Information Technology",
-    "Learning Fundamentals"
-  ]
-company: N/A
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Backend Development",
-    "Machine Learning",
-    "Microcontrollers",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Core Developer : 1st Placer Arduino Innovator"
-  ]
-  
-currently_learning: ["C++", "Java", "PHP"]
-
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
-
-```
 ## Commits
 ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
 
