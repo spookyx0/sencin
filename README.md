@@ -44,8 +44,11 @@ hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
 </p>
 
  Commits
-![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
 
+<details>
+  <summary>Commits</summary>
+    ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
+</details>
 <details>
   <summary>GITHUB STATS</summary>
  <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
