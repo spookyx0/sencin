@@ -1,7 +1,5 @@
 ## GITHUB STATS
 <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
-## Commits
-![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
 
 ##  🚀Some Tools I Have Used and Learned
 <p align="left">
@@ -15,3 +13,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="msql" width="45" height="45"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="45" height="45"/>
 </p>
+
+## Commits
+![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
