@@ -45,6 +45,7 @@ hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
 
 <details>
   <summary>Commits</summary>
+  
     ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
 </details>
 <details>
