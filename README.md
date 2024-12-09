@@ -1,55 +1,44 @@
-<p style="font-size: 24px;">LANGUAGES</p>
+<img src="github-banner.png" alt="GitHub Banner" width="100%" />
+
+# Hello, I'm Xyznxa, a self taught Web Developer 👋
+
+A self motivated wandering software engineer with passion on coding. 🔥 🚀
+
+
+- 🚀 I’m currently Working with our thesis
+
+- 🚀 2025 Goals: **More Knowledge, More Coding**
+
+- 📄 Portfolio: **https://xyznxa.pages.dev/**
+
+<img align="justify" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
+
+<h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="msql" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" alt="John Layda">
 </p>
-<p align="left">TOOLS</p>
+
+<h3 align="left">Frameworks:</h3>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" width="45" height="45"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino, dotnet" alt="John Albert Layda">
 </p>
 
-```yaml
-name: Sensen
-located_in: Philippines
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor of Science in Information Technology",
-    "Learning Fundamentals"
-  ]
-company: N/A
+<h3 align="left">Backend Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=express,firebase,supabase" alt="John">
+</p>
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Backend Development",
-    "Machine Learning",
-    "Microcontrollers",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Core Developer : 1st Placer Arduino Innovator"
-  ]
-  
-currently_learning: ["C++", "Java", "PHP"]
+<h3 align="left">A.I Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="Albert">
+</p>
 
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Coding", "Reading", "Streaming", "Art", "Sheeshing"]
+<h3 align="left">Database:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" alt="Layda">
+</p>
 
-```
-<!--
-<details>
-  <summary>Commits</summary>
-    ![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
-</details>
--->
-
- <h3>Github Activity</h3>
- <img align="left" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
+<h3 align="left">Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea">
+</p>
