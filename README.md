@@ -1,6 +1,6 @@
 
 <img align="justify" width="100%" src="./assets/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
-
+<img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 # Hello, I'm Xyznxa, a self taught Web Developer 
 
@@ -44,4 +44,3 @@ A self motivated wandering software engineer with passion on coding.
 <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea">
 </p>
 
-![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
