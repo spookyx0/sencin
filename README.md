@@ -1,9 +1,10 @@
-<!-- <img src="github-banner.png" alt="GitHub Banner" width="100%" /> -->
 
-# Hello, I'm Xyznxa, a self taught Web Developer 👋
+<img align="justify" width="100%" src="./assets/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
 
-A self motivated wandering software engineer with passion on coding. 🔥 🚀
 
+# Hello, I'm Xyznxa, a self taught Web Developer 
+
+A self motivated wandering software engineer with passion on coding.
 
 - 🚀 I’m currently Working with our thesis
 
@@ -11,8 +12,8 @@ A self motivated wandering software engineer with passion on coding. 🔥 🚀
 
 - 📄 Portfolio: **https://xyznxa.pages.dev/**
 
-<img align="justify" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true"/>
-
+<img align="justify" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true&theme=omni"/>
+<img align="justify" height="50" src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" alt="John Layda">
