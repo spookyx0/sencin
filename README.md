@@ -20,25 +20,27 @@ A self motivated wandering software engineer with passion on coding. 🔥 🚀
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino, dotnet" alt="John Albert Layda">
+<img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino, dotnet">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=express,firebase,supabase" alt="John">
+<img src="https://skillicons.dev/icons?i=express,firebase,supabase" >
 </p>
 
 <h3 align="left">A.I Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="Albert">
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow">
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" alt="Layda">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis">
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea">
 </p>
+
+![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
