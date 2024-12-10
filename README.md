@@ -43,4 +43,4 @@ A self motivated wandering software engineer with passion on coding. 🔥 🚀
 <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea">
 </p>
 
-![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
