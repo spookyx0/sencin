@@ -1,5 +1,8 @@
 
-<img align="justify" width="100%" style="height:50%;" src="./assets/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
+<div align="center">
+  <img src="./assets/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive GIF">
+</div>
+
 <img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 # Hello, I'm Xyznxa, a self taught Backend Developer 
