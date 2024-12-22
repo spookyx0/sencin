@@ -5,8 +5,6 @@
 
 <img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
-# Hello, I'm Xyznxa, a self taught Backend Developer 
-
 A self motivated wandering software engineer with passion on coding.
 
 - 🚀 I’m currently Working with our thesis
