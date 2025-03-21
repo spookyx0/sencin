@@ -1,4 +1,6 @@
-
+### Visitors Count
+ ![Visitor Count](https://profile-counter.glitch.me/sencin/count.svg)
+ 
 <div align="center">
   <img src="./assets/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive GIF">
 </div>
