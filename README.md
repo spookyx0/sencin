@@ -7,22 +7,28 @@
 
 <img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
-A self motivated wandering software engineer with passion on coding.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sencin&show_icons=true&hide_border=true&theme=omni" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sencin&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
+</p>
 
-- 🚀 I’m currently Working with our thesis
+<br>
 
-- 🚀 2025 Goals: **More Knowledge, More Coding**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sencin&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-<img align="justify" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true&theme=omni"/>
+<br>
+
 <img align="justify" height="50" src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" alt="John Layda">
+ <img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" alt="John Layda">
 </p>
 
 <h3 align="left">Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino, dotnet">
+ <p align="left">
+ <img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino, dotnet">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
