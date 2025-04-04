@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sencin&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sencin&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6&row=5" alt="GitHub Trophies" width="100%" style="max-width: 400px;" />
 </p>
 
 <br>
