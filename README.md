@@ -8,8 +8,8 @@
 <img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sencin&show_icons=true&hide_border=true&theme=omni" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sencin&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sencin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
 <br>
