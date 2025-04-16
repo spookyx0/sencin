@@ -15,39 +15,34 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sencin&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6&row=5" alt="GitHub Trophies" width="100%" style="max-width: 400px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sencin&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=9&row=9" alt="GitHub Trophies" width="100%" style="max-width: 400px;" />
 </p>
 
-<br>
-
-<img align="justify" height="50" src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
-<h3 align="left">Languages:</h3>
-<p align="left">
- <img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" alt="John Layda">
-</p>
-
-<h3 align="left">Frameworks:</h3>
- <p align="left">
- <img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino, dotnet">
-</p>
-
-<h3 align="left">Backend Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=express,firebase,supabase" >
-</p>
-
-<h3 align="left">A.I Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow">
-</p>
-
-<h3 align="left">Database:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis">
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea">
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Languages</b></td>
+      <td><img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" height="30"/></td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td><img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino,dotnet" height="30"/></td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=express,firebase,supabase" height="30"/></td>
+    </tr>
+    <tr>
+      <td><b>AI / ML</b></td>
+      <td><img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" height="30"/></td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" height="30"/></td>
+    </tr>
+    <tr>
+      <td><b>Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea" height="50"/></td>
+    </tr>
+  </table>
+</div>
