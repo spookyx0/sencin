@@ -22,27 +22,27 @@
   <table>
     <tr>
       <td><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" height="30"/></td>
+      <td><img src="https://skillicons.dev/icons?i=solidity,c,cpp,php,bash,js" height="40"/></td>
     </tr>
     <tr>
       <td><b>Frameworks</b></td>
-      <td><img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino,dotnet" height="30"/></td>
+      <td><img src="https://skillicons.dev/icons?i=vue,nuxt,nextjs,laravel,arduino" height="40"/></td>
     </tr>
     <tr>
       <td><b>Backend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=express,firebase,supabase" height="30"/></td>
+      <td><img src="https://skillicons.dev/icons?i=express,firebase,supabase" height="40"/></td>
     </tr>
     <tr>
       <td><b>AI / ML</b></td>
-      <td><img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" height="30"/></td>
+      <td><img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" height="40"/></td>
     </tr>
     <tr>
       <td><b>Databases</b></td>
-      <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" height="30"/></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" height="40"/></td>
     </tr>
     <tr>
       <td><b>Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea" height="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" height="30"/></td>
     </tr>
   </table>
 </div>
