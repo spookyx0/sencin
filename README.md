@@ -9,7 +9,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sencin&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sencin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sencin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut-vertical&langs_count=20" />
 </p>
 
 <br>
